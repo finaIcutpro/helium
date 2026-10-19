@@ -84,7 +84,7 @@
  }
 --- a/chrome/browser/ui/views/frame/opaque_browser_frame_view.h
 +++ b/chrome/browser/ui/views/frame/opaque_browser_frame_view.h
-@@ -63,6 +63,7 @@ class OpaqueBrowserFrameView : public Br
+@@ -64,6 +64,7 @@ class OpaqueBrowserFrameView : public Br
    int GetTopInset(bool restored) const override;
    void UpdateThrobber(bool running) override;
    void WindowControlsOverlayEnabledChanged() override;
