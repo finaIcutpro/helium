@@ -1,5 +1,6 @@
 upstream-fixes/missing-dependencies.patch
 upstream-fixes/tab-restore-live-tabs.patch
+upstream-fixes/wasm-interpreter-fixes.patch
 
 inox-patchset/fix-building-without-safebrowsing.patch
 inox-patchset/disable-autofill-download-manager.patch
